@@ -4,23 +4,74 @@
 - 🔭 I’m currently working on the <a href="https://www.bcprofil.com" target="_blank">bcprofil.com</a> web project
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.webdebiz.com" target="_blank"> <img src="https://www.webdebiz.com/assets/images/clients/b914c4a1bc5440bbb52564d1b4b47aa1.png" alt="aspnetcore" width="120" height="60"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="60"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="60"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="60"/> </a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="60"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="60"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="60"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="60"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="60"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="60"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="60"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="60"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="60"/> </a> 
-<a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="60"/> </a> 
-</p>
 
+<table style="border:0px solid #ddd">
+  <tr>
+    <td style="border: none;" align="center" width="96">
+      <a> <img src="https://www.webdebiz.com/assets/images/clients/b914c4a1bc5440bbb52564d1b4b47aa1.png" alt="aspnetcore" width="120"/></a>
+      <br>Asp.Net Core
+    </td>
+    <td style="border: none;" align="center" width="96">
+      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40"/></a>
+      <br>.Net
+    </td>
+    <td align="center" width="96">
+      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/></a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40"/>
+      </a>
+      <br>Razor & Blazor
+    </td>
+    <td align="center" width="96">
+     <a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50"/></a> 
+      <br>MsSql
+    </td>
+    <td align="center" width="96">
+     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/></a> 
+      <br>MySql
+    </td>
+    <td align="center" width="96">
+     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="60"/></a> 
+      <br>Mongo DB
+    </td>
+  </tr>
+  
+  <tr>
+	<td align="center" width="96">
+      <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/></a>
+      <br>Postman
+    </td>
+	<td align="center" width="96">
+      <a> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="postman" width="40"/></a>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/>
+      </a>
+      <br>Bootstrap
+    </td> 
+	<td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
+      </a>
+      <br>Html
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
+      </a>
+      <br>Css
+    </td>
+    <td align="center" width="96">
+      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></a>
+      <br>Js
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
