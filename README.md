@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a> <img src="https://www.webdebiz.com/assets/images/clients/b914c4a1bc5440bbb52564d1b4b47aa1.png" alt="aspnetcore" width="120"/></a>
+      <a href="#"> <img src="https://www.webdebiz.com/assets/images/clients/b914c4a1bc5440bbb52564d1b4b47aa1.png" alt="aspnetcore" width="120"/></a>
       <br>Asp.Net Core
     </td>
     <td align="center" width="96">
