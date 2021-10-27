@@ -40,7 +40,7 @@
   </tr>
   
   <tr>
-	<td align="center" width="96" height="195">
+	<td align="center" width="96">
       <a href="#"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/></a>
       <br>Postman
     </td>
