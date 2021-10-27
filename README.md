@@ -34,40 +34,40 @@
       <br>MySql
     </td>
     <td align="center" width="96">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="60"/> 
+     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="60"/> </a>
       <br>Mongo DB
     </td>
   </tr>
   
   <tr>
-	<td align="center" width="96" heigh="195">
-      <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/></a>
+	<td align="center" width="96" height="195">
+      <a href="#"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/></a>
       <br>Postman
     </td>
 	<td align="center" width="96">
-      <a> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="postman" width="40"/></a>
+      <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="postman" width="40"/></a>
       <br>Selenium
     </td>
     <td align="center" width="96">
-      <a>
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/>
       </a>
       <br>Bootstrap
     </td> 
 	<td align="center" width="96">
-      <a>
+      <a href="#">
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
       </a>
       <br>Html
     </td>
     <td align="center" width="96">
-      <a>
+      <a href="#">
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
       </a>
       <br>Css
     </td>
     <td align="center" width="96">
-      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></a>
+      <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></a>
       <br>Js
     </td>
   </tr>
