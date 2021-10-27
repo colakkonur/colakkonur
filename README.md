@@ -5,69 +5,69 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table border="0">
-  <tr height="98">
-    <td align="center" width="96">
-      <a href="#"> <img src="https://www.webdebiz.com/assets/images/clients/b914c4a1bc5440bbb52564d1b4b47aa1.png" alt="aspnetcore" width="120"/></a>
+<table>
+  <tr style="border: none;">
+    <td align="center" width="96" style="border: none;">
+      <a> <img src="https://www.webdebiz.com/assets/images/clients/b914c4a1bc5440bbb52564d1b4b47aa1.png" alt="aspnetcore" width="120"/></a>
       <br>Asp.Net Core
     </td>
-    <td align="center" width="96">
-      <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40"/></a>
+    <td align="center" width="96" style="border: none;">
+      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40"/></a>
       <br>.Net
     </td>
-    <td align="center" width="96">
-      <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/></a>
+    <td align="center" width="96" style="border: none;">
+      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/></a>
       <br>C#
     </td>
-    <td align="center" width="96">
-      <a href="#">
+    <td align="center" width="96" style="border: none;">
+      <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40"/>
       </a>
       <br>Razor & Blazor
     </td>
-    <td align="center" width="96">
-     <a href="#"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50"/></a> 
+    <td align="center" width="96" style="border: none;">
+     <a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50"/></a> 
       <br>MsSql
     </td>
-    <td align="center" width="96">
-     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/></a> 
+    <td align="center" width="96" style="border: none;">
+     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/></a> 
       <br>MySql
     </td>
-    <td align="center" width="96">
-     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="60"/> </a>
+    <td align="center" width="96" style="border: none;">
+     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="60"/></a> 
       <br>Mongo DB
     </td>
   </tr>
   
-  <tr height="98">
-	<td align="center" width="96">
-      <a href="#"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/></a>
+  <tr style="border: none;">
+	<td align="center" width="96" style="border: none;">
+      <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/></a>
       <br>Postman
     </td>
-	<td align="center" width="96">
-      <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="postman" width="40"/></a>
+	<td align="center" width="96" style="border: none;">
+      <a> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="postman" width="40"/></a>
       <br>Selenium
     </td>
-    <td align="center" width="96">
-      <a href="#">
+    <td align="center" width="96" style="border: none;">
+      <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/>
       </a>
       <br>Bootstrap
     </td> 
-	<td align="center" width="96">
-      <a href="#">
+	<td align="center" width="96" style="border: none;">
+      <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
       </a>
       <br>Html
     </td>
-    <td align="center" width="96">
-      <a href="#">
+    <td align="center" width="96" style="border: none;">
+      <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
       </a>
       <br>Css
     </td>
-    <td align="center" width="96">
-      <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></a>
+    <td align="center" width="96" style="border: none;">
+      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></a>
       <br>Js
     </td>
   </tr>
