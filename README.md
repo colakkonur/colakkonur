@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
-  <tr style="border: none;">
+  <tr style="border: none;" height="98">
     <td align="center" width="96" style="border: none;">
       <a> <img src="https://www.webdebiz.com/assets/images/clients/b914c4a1bc5440bbb52564d1b4b47aa1.png" alt="aspnetcore" width="120"/></a>
       <br>Asp.Net Core
@@ -39,7 +39,7 @@
     </td>
   </tr>
   
-  <tr style="border: none;">
+  <tr style="border: none;" height="98">
 	<td align="center" width="96" style="border: none;">
       <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/></a>
       <br>Postman
