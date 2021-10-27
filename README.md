@@ -1,6 +1,3 @@
-<style>
-.markdown-body table td{border:0px solid var(--color-border-default)}
-</style>
 <h1 align="left">Hi 👋, I'm Onur.</h1>
 <h3 align="left">First of all, thank you for browsing my profile. Let me tell you briefly about the projects in my profile. .NET CORE and similar architectures to develop projects. In addition, the majority of my projects consist of the projects of the companies I serve. In the following area, I talked about the technologies that I am interested in.</h3>
 
