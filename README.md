@@ -12,29 +12,29 @@
       <br>Asp.Net Core
     </td>
     <td align="center" width="96">
-      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40"/></a>
+      <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40"/></a>
       <br>.Net
     </td>
     <td align="center" width="96">
-      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/></a>
+      <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/></a>
       <br>C#
     </td>
     <td align="center" width="96">
-      <a>
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40"/>
       </a>
       <br>Razor & Blazor
     </td>
     <td align="center" width="96">
-     <a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50"/></a> 
+     <a href="#"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50"/></a> 
       <br>MsSql
     </td>
     <td align="center" width="96">
-     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/></a> 
+     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/></a> 
       <br>MySql
     </td>
     <td align="center" width="96">
-     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="60"/></a> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="60"/> 
       <br>Mongo DB
     </td>
   </tr>
