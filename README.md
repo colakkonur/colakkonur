@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Onur.</h1>
 <h3 align="left">First of all, thank you for browsing my profile. Let me tell you briefly about the projects in my profile. .NET CORE and similar architectures to develop projects. In addition, the majority of my projects consist of the projects of the companies I serve. In the following area, I talked about the technologies that I am interested in.</h3>
 
-- 🔭 I’m currently working on the <a href="https://www.bcprofil.com" target="_blank">bcprofil.com</a> web project
+
 
 <h3 align="left">Languages and Tools:</h3>
 
