@@ -8,7 +8,7 @@
 <table>
   <tr style="border: none;" height="98">
     <td align="center" width="96" style="border: none;">
-      <a> <img src="https://www.webdebiz.com/assets/images/clients/b914c4a1bc5440bbb52564d1b4b47aa1.png" alt="aspnetcore" width="120"/></a>
+      <a></a>
       <br>Asp.Net Core
     </td>
     <td align="center" width="96" style="border: none;">
@@ -79,5 +79,5 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16979973/onur-colak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16979973/onur-colak" height="30" width="40" /></a>
 <a href="https://instagram.com/onurrccolak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onurrccolak" height="30" width="40" /></a>
 <a href="https://discord.gg/Onur#6130" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Onur#6130" height="30" width="40" /></a>
-<a href="https://www.webdebiz.com" target="_blank"><img align="center" src="https://www.webdebiz.com/favicon/webdebiz-favicon-196x196.png" alt="www.webdebiz.com" height="40" width="40" /></a>
+
 </p>
