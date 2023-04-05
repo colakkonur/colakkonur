@@ -53,14 +53,13 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/>
       </a>
       <br>Bootstrap
-    <tr style="border: none;" height="98">
+    </td>
 	<td align="center" width="96" style="border: none;">
-      <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/></a>
+      <a></a>
       <br>Html
     </td>
-	    <tr style="border: none;" height="98">
 	<td align="center" width="96" style="border: none;">
-      <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/></a>
+      <a></a>
       <br>Css
     </td>
     <td align="center" width="96" style="border: none;">
