@@ -55,15 +55,11 @@
       <br>Bootstrap
     </td> 
 	<td align="center" width="96" style="border: none;">
-      <a>
-        
-      </a>
+     
       <br>Html
     </td>
     <td align="center" width="96" style="border: none;">
-      <a>
-        
-      </a>
+     
       <br>Css
     </td>
     <td align="center" width="96" style="border: none;">
