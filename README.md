@@ -8,7 +8,7 @@
 <table>
   <tr style="border: none;" height="98">
     <td align="center" width="96" style="border: none;">
-      <a></a>
+      <a><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg](https://codeopinion.com/wp-content/uploads/2018/07/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_RGB-300x300.png)" alt="dotnet" width="40"/></a>
       <br>Asp.Net Core
     </td>
     <td align="center" width="96" style="border: none;">
