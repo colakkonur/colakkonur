@@ -8,7 +8,6 @@
 <table>
   <tr style="border: none;" height="98">
     <td align="center" width="96" style="border: none;">
-      <a></a>
       <br>Asp.Net Core
     </td>
     <td align="center" width="96" style="border: none;">
@@ -55,11 +54,9 @@
       <br>Bootstrap
     </td>
 	<td align="center" width="96" style="border: none;">
-      <a></a>
       <br>Html
     </td>
 	<td align="center" width="96" style="border: none;">
-      <a></a>
       <br>Css
     </td>
     <td align="center" width="96" style="border: none;">
