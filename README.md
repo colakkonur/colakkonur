@@ -8,7 +8,7 @@
 <table>
   <tr style="border: none;" height="98">
     <td align="center" width="96" style="border: none;">
-      <a><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg](https://codeopinion.com/wp-content/uploads/2018/07/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_RGB-300x300.png)" alt="dotnet" width="40"/></a>
+      <a><img src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo.png" alt="dotnet" width="40"/></a>
       <br>Asp.Net Core
     </td>
     <td align="center" width="96" style="border: none;">
@@ -56,13 +56,13 @@
     </td> 
 	<td align="center" width="96" style="border: none;">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
+        <img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle.png" width="40"/>
       </a>
       <br>Html
     </td>
     <td align="center" width="96" style="border: none;">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
+        <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png" width="40"/>
       </a>
       <br>Css
     </td>
